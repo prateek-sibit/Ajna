@@ -1,0 +1,98 @@
+2019-03-28 17:48:13,983 - ISR.predict.predictor - INFO - Creating output directory:
+./data/output/Extracted
+2019-03-28 17:48:14,077 - ISR.predict.predictor - INFO - Loaded weights from 
+ > weights/rdn-C6-D20-G64-G064-x2_enhanced-e219.hdf5
+2019-03-28 17:48:27,447 - ISR.predict.predictor - INFO - Results in:
+ > ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219
+2019-03-28 17:48:27,818 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/3730.jpg
+2019-03-28 17:48:32,761 - ISR.predict.predictor - INFO - Elapsed time: 4.939406633377075s
+2019-03-28 17:48:32,767 - ISR.predict.predictor - INFO - Result in: ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219/3730.jpg
+2019-03-28 17:48:34,016 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/6155.jpg
+2019-03-28 17:48:34,678 - ISR.predict.predictor - INFO - Elapsed time: 0.6599788665771484s
+2019-03-28 17:48:34,683 - ISR.predict.predictor - INFO - Result in: ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219/6155.jpg
+2019-03-28 17:48:35,068 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/1978.jpg
+2019-03-28 17:48:38,135 - ISR.predict.predictor - INFO - Elapsed time: 3.0628914833068848s
+2019-03-28 17:48:38,140 - ISR.predict.predictor - INFO - Result in: ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219/1978.jpg
+2019-03-28 17:48:38,700 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/5786.jpg
+2019-03-28 17:48:40,937 - ISR.predict.predictor - INFO - Elapsed time: 2.2353620529174805s
+2019-03-28 17:48:40,942 - ISR.predict.predictor - INFO - Result in: ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219/5786.jpg
+2019-03-28 17:48:42,263 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/6472.jpg
+2019-03-28 17:48:46,887 - ISR.predict.predictor - INFO - Elapsed time: 4.620868921279907s
+2019-03-28 17:48:46,889 - ISR.predict.predictor - INFO - Result in: ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219/6472.jpg
+2019-03-28 17:48:48,163 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/9207.jpg
+2019-03-28 17:48:51,371 - ISR.predict.predictor - INFO - Elapsed time: 3.205127239227295s
+2019-03-28 17:48:51,373 - ISR.predict.predictor - INFO - Result in: ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219/9207.jpg
+2019-03-28 17:48:52,090 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/8965.jpg
+2019-03-28 17:48:54,872 - ISR.predict.predictor - INFO - Elapsed time: 2.7808892726898193s
+2019-03-28 17:48:54,877 - ISR.predict.predictor - INFO - Result in: ./data/output/Extracted/rdn-C6-D20-G64-G064-x2/enhanced-e219/8965.jpg
+2019-03-28 18:22:58,161 - ISR.predict.predictor - INFO - Creating output directory:
+./data/output/test2
+2019-03-28 18:22:58,233 - ISR.predict.predictor - INFO - Loaded weights from 
+ > weights/rdn-C6-D20-G64-G064-x2_enhanced-e219.hdf5
+2019-03-28 18:23:16,716 - ISR.predict.predictor - INFO - Results in:
+ > ./data/output/test2/rdn-C6-D20-G64-G064-x2/enhanced-e219
+2019-03-28 18:23:17,918 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test2/9439.jpg
+2019-03-28 18:23:18,849 - ISR.predict.predictor - INFO - Elapsed time: 0.9261398315429688s
+2019-03-28 18:23:18,856 - ISR.predict.predictor - INFO - Result in: ./data/output/test2/rdn-C6-D20-G64-G064-x2/enhanced-e219/9439.jpg
+2019-03-28 18:23:18,944 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test2/2451.jpg
+2019-03-28 18:23:19,949 - ISR.predict.predictor - INFO - Elapsed time: 1.0030694007873535s
+2019-03-28 18:23:19,955 - ISR.predict.predictor - INFO - Result in: ./data/output/test2/rdn-C6-D20-G64-G064-x2/enhanced-e219/2451.jpg
+2019-03-28 18:23:20,038 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test2/7018.jpg
+2019-03-28 18:23:20,817 - ISR.predict.predictor - INFO - Elapsed time: 0.7759292125701904s
+2019-03-28 18:23:20,820 - ISR.predict.predictor - INFO - Result in: ./data/output/test2/rdn-C6-D20-G64-G064-x2/enhanced-e219/7018.jpg
+2019-03-28 18:23:20,884 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test2/4185.jpg
+2019-03-28 18:23:21,648 - ISR.predict.predictor - INFO - Elapsed time: 0.7622251510620117s
+2019-03-28 18:23:21,650 - ISR.predict.predictor - INFO - Result in: ./data/output/test2/rdn-C6-D20-G64-G064-x2/enhanced-e219/4185.jpg
+2019-03-28 18:23:22,143 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test2/2992.jpg
+2019-03-28 18:23:25,622 - ISR.predict.predictor - INFO - Elapsed time: 3.475558042526245s
+2019-03-28 18:23:25,624 - ISR.predict.predictor - INFO - Result in: ./data/output/test2/rdn-C6-D20-G64-G064-x2/enhanced-e219/2992.jpg
+2019-03-28 18:23:25,785 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test2/376.jpg
+2019-03-28 18:23:35,213 - ISR.predict.predictor - INFO - Elapsed time: 9.425698518753052s
+2019-03-28 18:23:35,216 - ISR.predict.predictor - INFO - Result in: ./data/output/test2/rdn-C6-D20-G64-G064-x2/enhanced-e219/376.jpg
+2019-03-28 18:23:42,311 - ISR.predict.predictor - INFO - Creating output directory:
+./data/output/test1
+2019-03-28 18:23:42,333 - ISR.predict.predictor - INFO - Loaded weights from 
+ > weights/rdn-C6-D20-G64-G064-x2_enhanced-e219.hdf5
+2019-03-28 18:23:55,041 - ISR.predict.predictor - INFO - Results in:
+ > ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219
+2019-03-28 18:23:55,127 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test1/3730.jpg
+2019-03-28 18:23:57,784 - ISR.predict.predictor - INFO - Elapsed time: 2.6549651622772217s
+2019-03-28 18:23:57,786 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/3730.jpg
+2019-03-28 18:23:57,905 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test1/6155.jpg
+2019-03-28 18:23:58,870 - ISR.predict.predictor - INFO - Elapsed time: 0.9618921279907227s
+2019-03-28 18:23:58,876 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/6155.jpg
+2019-03-28 18:23:58,967 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test1/1978.jpg
+2019-03-28 18:24:01,719 - ISR.predict.predictor - INFO - Elapsed time: 2.74815034866333s
+2019-03-28 18:24:01,723 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/1978.jpg
+2019-03-28 18:24:01,969 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test1/5786.jpg
+2019-03-28 18:24:04,487 - ISR.predict.predictor - INFO - Elapsed time: 2.5163497924804688s
+2019-03-28 18:24:04,491 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/5786.jpg
+2019-03-28 18:24:06,339 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test1/6472.jpg
+2019-03-28 18:24:10,540 - ISR.predict.predictor - INFO - Elapsed time: 4.20000958442688s
+2019-03-28 18:24:10,544 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/6472.jpg
+2019-03-28 18:24:10,706 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test1/9207.jpg
+2019-03-28 18:24:13,511 - ISR.predict.predictor - INFO - Elapsed time: 2.801316976547241s
+2019-03-28 18:24:13,515 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/9207.jpg
+2019-03-28 18:24:13,866 - ISR.predict.predictor - INFO - Processing file
+ > Extracted/test1/8965.jpg
+2019-03-28 18:24:17,346 - ISR.predict.predictor - INFO - Elapsed time: 3.4782915115356445s
+2019-03-28 18:24:17,354 - ISR.predict.predictor - INFO - Result in: ./data/output/test1/rdn-C6-D20-G64-G064-x2/enhanced-e219/8965.jpg
