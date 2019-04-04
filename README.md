@@ -6,21 +6,21 @@ The goal of this project was to first detect/extract faces in a frame and then a
 The name of the project was chosen as "Ajna" which in yogic culture corresponds to the the sixth primary chakra in the body. An activation of this chakra leads to an increase in one's perception and clarity. Going in line with this, this project uses image processing techniques to increase clarity of an input image hence the name.
 
 ## About the Files in this Project
-1. Extracted : Folder containing the subdirectories of extracted faces from the input images
-2. data : Contains two sub folders ->
+1. **Extracted** : Folder containing the subdirectories of extracted faces from the input images
+2. **data** : Contains two sub folders ->
    - input : contains the input images
    - output : contains the enhanced outputs corresponding to the input images
-3. demo : folder containing a demo notebook and files for the **ISR** package
-4. haarcascades : folder containing the haarcascade files which have been used for face detection
-5. weights : folder containing .hdf5 weights for different models used with **ISR**
-6. Ajna.ipynb : Main Notebook which is used for model creation and prediction
-7. extract_faces.py : Python script responsible for extracting faces from the input images
+3. **demo** : folder containing a demo notebook and files for the **ISR** package
+4. **haarcascades** : folder containing the haarcascade files which have been used for face detection
+5. **weights** : folder containing .hdf5 weights for different models used with **ISR**
+6. **Ajna.ipynb** : Main Notebook which is used for model creation and prediction
+7. **extract_faces.py** : Python script responsible for extracting faces from the input images
 
 ## Results
 
 
 ## Applications 
-
+Such a method can be used extensively in survelliance and defense. With CCTV cameras or UAV's harnessing this capability it is then possible to detect and identify features of interest (hostiles, enemies, criminals etc.). This method can also be extended to be trained to extract only ceratain faces (Your own) from a group photo and to then crop and enhance your image for personal use.
 
 ## Citations
 
