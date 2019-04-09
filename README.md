@@ -18,6 +18,13 @@ The name of the project was chosen as "Ajna" which in yogic culture corresponds 
 
 ## Results
 
+![input](https://user-images.githubusercontent.com/28367168/55771841-3bc03000-5aa7-11e9-9da6-2c1f6a6cae0e.JPG)
+
+![output](https://user-images.githubusercontent.com/28367168/55771854-45e22e80-5aa7-11e9-8b7f-d47f0e53c369.JPG)
+
+**Top** : The input extracted faces that were fed to the model
+**Below** : The output from the model
+The change in resolution is clearly visible
 
 ## Applications 
 Such a method can be used extensively in survelliance and defense. With CCTV cameras or UAV's harnessing this capability it is then possible to detect and identify features of interest (hostiles, enemies, criminals etc.). This method can also be extended to be trained to extract only ceratain faces (Your own) from a group photo and to then crop and enhance your image for personal use.
