@@ -23,6 +23,7 @@ The name of the project was chosen as "Ajna" which in yogic culture corresponds 
 ![output](https://user-images.githubusercontent.com/28367168/55771854-45e22e80-5aa7-11e9-8b7f-d47f0e53c369.JPG)
 
 **Top** : The input extracted faces that were fed to the model
+
 **Below** : The output from the model
 The change in resolution is clearly visible
 
